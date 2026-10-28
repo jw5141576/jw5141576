@@ -1,7 +1,7 @@
 <h2 align="center">Hey there, I'm Jeremy Ouko 👋</h2>
 
 <p align="center">
-  <strong>Software Engineer | Web Developer | Entrepreneur | Growth-Focused</strong>
+  <strong>Software Engineer | Web Developer </strong>
 </p>
 
 ---
