@@ -15,9 +15,11 @@ I specialize in building impactful digital solutions, focusing on web developmen
 ---
 
 ## ⚡ Tech Stack & Tooling
-![TypeScript](https://shields.io) ![JavaScript](https://shields.io) ![HTML5](https://shields.io) ![CSS3](https://shields.io) ![Vercel](https://shields.io)
-
----
+![TypeScript](https://shields.io) 
+![JavaScript](https://shields.io) 
+![HTML5](https://shields.io) 
+![CSS3](https://shields.io) 
+![Vercel](https://shields.io)
 
 ## 🔗 Connect With Me
 * 💼 [LinkedIn](https://linkedin.com)
