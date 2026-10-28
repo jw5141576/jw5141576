@@ -1,28 +1,32 @@
 ## Greetings !👋
 
-<!--
-**jw5141576/jw5141576** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">Hey there, I'm Jeremy Ouko 👋</h2>
 
-<h2 align="center">Greetings, I'm Jeremy Ouko</h2>
+<p align="center">
+  <strong>Software Engineer | Web Developer | Entrepreneur | Growth-Focused</strong>
+</p>
 
-I'm a Software Engineer and Web Developer. 
-Currently, some of my projects include:
+---
 
-* Project at [Personal Portfolio](https://link-to-org.com)
-  * Secondary detail or sub-bullet point
-* Project at [Link](https://link.com)
-  * Secondary detail or sub-bullet point
+### 💻 About Me
+I specialize in building impactful digital solutions, focusing on web development, infrastructure, and strategic partnerships. I enjoy working across the stack to deliver clean code and innovative agribusiness or fintech systems.
 
-Currently my focus is fron-end development server-side applications and infrastructure. I tend to work with frontend frameworks such as React to backend frameworks like Django, Flask, and many more.
+* 🚀 Currently driving **Investments & Strategic Partnerships** at **King's Investments Group**.
+* 🌍 Passionate about sustainable tech, entrepreneurship, and building scalable platforms like **Prime Grow Farms** and **Swift Money Exchange**.
+* 🛠️ Experienced in crafting personal portfolios, student portals, and data-driven client systems.
 
-## Details
+---
 
-### ⚡ Preferred Languages
-![html](https://shields.io) ![Javascript](https://shields.io) ![TypeScript](https://shields.io) ![CSS](https://shields.io)
+### ⚡ Tech Stack & Tooling
+![TypeScript](https://shields.io) ![JavaScript](https://shields.io) ![HTML5](https://shields.io) ![CSS3](https://shields.io)
 
-### 🤝 Socials
-* [Linkedin](https://www.linkedin.com/in/jeremy-ouko-b72726248/)
-* [Personal Website](https://portfolio-two-dun-60.vercel.app/)
+---
 
-### 📊 Stats
+### 🤝 Connect With Me
+* [LinkedIn](https://linkedin.com) *(Update this link with your real URL suffix)*
+* [Personal Portfolio](https://github.com)
+
+---
+
+### 📊 GitHub Profile Stats
 ![Visitors](https://komarev.com)
