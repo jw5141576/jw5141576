@@ -18,12 +18,12 @@ I specialize in building impactful digital solutions, focusing on web developmen
 ---
 
 ### ⚡ Tech Stack & Tooling
-![TypeScript](https://shields.io) ![JavaScript](https://shields.io) ![HTML5](https://shields.io) ![CSS3](https://shields.io)
+![TypeScript](![TypeScript](https://shields.io)) ![JavaScript](![JavaScript](https://shields.io)) ![HTML](![HTML5](https://shields.io)) ![CSS](![CSS3](https://shields.io))
 
 ---
 
 ### 🤝 Connect With Me
-* [LinkedIn](https://linkedin.com) *(Update this link with your real URL suffix)*
+* [LinkedIn](https://linkedin.com) *(https://www.linkedin.com/in/jeremy-ouko-b72726248/)*
 * [Personal Portfolio](https://github.com)
 
 ---
