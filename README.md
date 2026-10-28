@@ -4,37 +4,58 @@
   <strong>Software Engineer | Web Developer</strong>
 </p>
 
+<p align="center">
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
 ---
 
 ## 👤 About Me
-I specialize in building impactful digital solutions, focusing on web development. I'm passionate about building responsive, reliable, and impactful digital solutions. My journey has taught me to create value across personal brands, student tools, and business platforms.
+I specialize in building impactful digital solutions, with a strong focus on web development and user-centered product experiences. I enjoy turning ideas into fast, responsive, and reliable platforms that help businesses and people work better.
 
-* 🚀 Currently driving **Building Websites** at **Nexus Code**.
-* 🟢 Passionate about sustainable tech, entrepreneurship, and building scalable platforms like **Prime Grow Farms** and **Swift Money Exchange**.
-* 🛠️ Experienced in crafting personal portfolios, student portals, and data-driven client systems.
+- 🚀 Currently building websites and digital experiences at **Nexus Code**.
+- 🟢 Passionate about sustainable technology, entrepreneurship, and creating scalable systems for growth-focused businesses.
+- 🛠️ Experienced in developing personal portfolios, student portals, and data-driven client solutions.
 
 ---
 
 ## ⚡ Tech Stack & Tooling
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" alt="Vercel" />
+</p>
 
 ---
 
 ## 🔗 Connect With Me
-* 💼 [LinkedIn](https://linkedin.com)
-* 🌐 [Personal Portfolio](https://vercel.app)
+
+- 💼 [LinkedIn](https://linkedin.com)
+- 🌐 [Personal Portfolio](https://vercel.app)
 
 ---
 
 ## 📊 GitHub Profile Stats
 
-![Profile Views](https://komarev.com/ghpvc/?username=jw5141576&label=Profile%20views&color=brightgreen)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jw5141576&label=Profile%20views&color=brightgreen" alt="Profile Views" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jw5141576&show_icons=true&theme=default)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jw5141576&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jw5141576&layout=compact" alt="Top Languages" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jw5141576&layout=compact)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jw5141576" alt="GitHub Streak" />
+</p>
