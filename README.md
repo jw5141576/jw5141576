@@ -23,15 +23,20 @@ I specialize in building impactful digital solutions, with a strong focus on web
 ---
 
 ## ⚡ Tech Stack & Tools
-- **Languages:** TypeScript, JavaScript, HTML5, CSS3
+- **Languages:**
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" />
+
+-  TypeScript, JavaScript, HTML5, CSS3
 - **Frameworks:** React
 - **Deployment:** Vercel
 
 <p align="left">
     <ul>
-      <li><img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" /></li>
-      <li> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" /></li>
-      <li><img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" /></li>
+      <li></li>
+      <li> </li>
+      <li></li>
       <li><img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" /></li>
       <li><img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React" /></li>
       <li><img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js" /></li>
