@@ -54,6 +54,10 @@ I specialize in building impactful digital solutions, with a strong focus on web
 </p>
 
 <p align="center">
-  <img src="https://vercel.app" alt="GitHub Stats" />
-  <img src="https://vercel.app" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jw5141576&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jw5141576&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jw5141576" alt="GitHub Streak" />
 </p>
