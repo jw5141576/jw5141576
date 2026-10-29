@@ -53,7 +53,7 @@ I specialize in building impactful digital solutions, with a strong focus on web
   <img src="https://komarev.com/ghpvc/?username=jw5141576&label=Profile%20views&color=brightgreen" alt="Profile Views" />
 </p>
 
-<p align="center"><strong>GitHub Stats | Top Languages</strong></p>
+<p align="center"><strong>GitHub Stats  |  Streak</strong></p>
  
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jw5141576" alt="GitHub Streak" />
