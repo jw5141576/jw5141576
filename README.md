@@ -43,7 +43,7 @@ I specialize in building impactful digital solutions, with a strong focus on web
 ## 🔗 Connect With Me
 
 - 💼 [LinkedIn](https://linkedin.com)
-- 🌐 [Personal Portfolio](https://vercel.app)
+- 🌐 [Personal Portfolio](https://portfolio-two-dun-60.vercel.app/)
 
 ---
 
