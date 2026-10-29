@@ -22,7 +22,10 @@ I specialize in building impactful digital solutions, with a strong focus on web
 
 ---
 
-## ⚡ Tech Stack & Tooling
+## ⚡ Tech Stack & Tools
+- **Languages:** TypeScript, JavaScript, HTML5, CSS3
+- **Frameworks:** React
+- **Deployment:** Vercel
 
 <p align="left">
     <ul>
