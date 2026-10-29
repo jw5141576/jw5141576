@@ -1,9 +1,7 @@
 <h2 align="center">Hey there, I'm Jeremy Ouko 👋</h2>
-
 <p align="center">
   <strong>Software Engineer | Web Developer</strong>
 </p>
-
 <p align="center">
   <a href="https://linkedin.com" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
