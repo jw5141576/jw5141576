@@ -56,8 +56,8 @@ I specialize in building impactful digital solutions, with a strong focus on web
 <p align="center">
   <img src="https://blog.kubesimplify.com/img/blog/git-and-github-a-beginners-guide/q3I5kJ5U9.jpeg" 
     alt="GitHub Stats"
-    width="50"
-    height="50"/>
+    width="100"
+    height="100"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jw5141576&layout=compact" alt="Top Languages" />
 </p>
 
