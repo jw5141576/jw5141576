@@ -32,6 +32,7 @@ I specialize in building impactful digital solutions, with a strong focus on web
 - **Frameworks:**
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Angular-20232A?logo=angular&logoColor=61DAFB" alt="Angular" />
+  <img src="https://img.shields.io/badge/Express.js-20232A?logo=express.js&logoColor=61DAFB" alt="Express.js" />
 
 - **Runtimes:**
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js" />
