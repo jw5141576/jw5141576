@@ -31,10 +31,14 @@ I specialize in building impactful digital solutions, with a strong focus on web
 
 - **Frameworks:**
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Angular-20232A?logo=angular&logoColor=61DAFB" alt="Angular" />
 
-  - **Runtimes:**
+- **Runtimes:**
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js" />
-  
+
+- **Databases:**
+  <img src="https://img.shields.io/badge/MongoDB-339933?logo=mongodb&logoColor=white" alt="MongoDB" />
+
 - **Deployment:**
   <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" alt="Vercel" />
 
