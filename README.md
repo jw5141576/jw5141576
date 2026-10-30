@@ -51,7 +51,7 @@ I specialize in building impactful digital solutions, with a strong focus on web
 
 ## 🔗 Connect With Me
 
-- 💼 [LinkedIn](https://linkedin.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jeremy-ouko-b72726248/)
 - 🌐 [Personal Portfolio](https://portfolio-two-dun-60.vercel.app/)
 
 ---
