@@ -59,12 +59,12 @@ I specialize in building impactful digital solutions, with a strong focus on web
 ### 📊 Developer Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jw5141576&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img  src="https://komarev.com/ghpvc/?username=jw5141576&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/badge/Portfolio-Live-0e75b6?style=flat" alt="Portfolio Status" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=jw5141576&hide_current_streak=true&hide_longest_streak=true" alt="Total Contributions" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jw5141576&show_icons=true&hide_rank=true" alt="GitHub Stats" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=jw5141576&hide_current_streak=true&hide_longest_streak=true" alt="Total Contributions" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jw5141576&theme=default" alt="GitHub Stats" />
 </p>
 
