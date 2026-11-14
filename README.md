@@ -58,14 +58,8 @@ I specialize in building impactful digital solutions, with a strong focus on web
 
 ### 📊 Developer Stats
 
-<p align="center">
-  <a href="https://vercel.app">
-    <img src="https://shields.io" alt="Portfolio" />
-  </a>
-  <a href="https://github.com">
-    <img src="https://shields.io" alt="Repositories" />
-  </a>
-  <a href="https://github.com">
-    <img src="https://shields.io" alt="Focus" />
-  </a>
-</p>
+### 📊 Developer Overview
+
+| 🌐 Live Portfolio | 📦 GitHub Projects | 💻 Core Stack |
+| :---: | :---: | :---: |
+| [View Portfolio](https://vercel.app) | [Browse Repositories](https://github.com) | Full-Stack Web Dev |
