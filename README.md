@@ -64,7 +64,7 @@ I specialize in building impactful digital solutions, with a strong focus on web
 </p>
 
 <p align="center">
-  <img src="https://demolab.com/?user=jw5141576&hide_current_streak=true&hide_longest_streak=true" alt="Total Contributions" />
-  <img src="github-readme-stats.vercel.app/api?username=jw5141576&show_icons=true&hide_rank=true
-" alt="GitHub Stats" />
+  <img src="https://demolab.com" alt="Total Contributions" />
+  <img src="https://vercel.app" alt="GitHub Stats" />
 </p>
+
