@@ -60,10 +60,10 @@ I specialize in building impactful digital solutions, with a strong focus on web
 
 <p align="center">
   <img src="https://komarev.com" alt="Profile views" />
-  <img src="https://hitscounter.dev" alt="Portfolio Views" />
+  <img src="https://shields.io" alt="Portfolio Status" />
 </p>
 
 <p align="center">
   <img src="https://demolab.com" alt="Total Contributions" />
-  <img src="https://ghstats.dev" alt="Total Repositories" />
+  <img src="https://vercel.app" alt="GitHub Stats" />
 </p>
