@@ -56,14 +56,14 @@ I specialize in building impactful digital solutions, with a strong focus on web
 
 ---
 
-## 📊 GitHub Profile Stats
+### 📊 Developer Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jw5141576&label=Profile%20views&color=brightgreen" alt="Profile Views" />
+  <img src="https://komarev.com" alt="Profile views" />
+  <img src="https://hitscounter.dev" alt="Portfolio Views" />
 </p>
 
-<p align="center"><strong>GitHub Stats  |  Streak</strong></p>
- 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jw5141576" alt="GitHub Streak" />
+  <img src="https://demolab.com" alt="Total Contributions" />
+  <img src="https://ghstats.dev" alt="Total Repositories" />
 </p>
