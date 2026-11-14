@@ -60,7 +60,7 @@ I specialize in building impactful digital solutions, with a strong focus on web
 
 <p align="center">
   <img  src="https://komarev.com/ghpvc/?username=jw5141576&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Portfolio-Live-0e75b6?style=flat" alt="Portfolio Status" />
+  <  <img src="https://komarev.com/ghpvc/?username=jw5141576-portfolio&label=Portfolio%20views&color=0e75b6&style=flat" alt="Portfolio views" />
 </p>
 
 <p align="center">
