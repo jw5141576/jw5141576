@@ -59,11 +59,13 @@ I specialize in building impactful digital solutions, with a strong focus on web
 ### 📊 Developer Stats
 
 <p align="center">
-  <img src="https://komarev.com" alt="Profile views" />
-  <img src="https://shields.io" alt="Portfolio Status" />
-</p>
-
-<p align="center">
-  <img src="https://demolab.com" alt="Total Contributions" />
-  <img src="https://vercel.app" alt="GitHub Stats" />
+  <a href="https://vercel.app">
+    <img src="https://shields.io" alt="Portfolio" />
+  </a>
+  <a href="https://github.com">
+    <img src="https://shields.io" alt="Repositories" />
+  </a>
+  <a href="https://github.com">
+    <img src="https://shields.io" alt="Focus" />
+  </a>
 </p>
